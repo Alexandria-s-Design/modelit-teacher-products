@@ -1,0 +1,17 @@
+Task,Description,Status,Priority,Owner Type,Est Hours,Dependencies,Notes,AI Agent Recommendation
+Mini Lesson 1: Papercut Patrol,Lesson on immune response to a cut,Not Started,High,AI Agent (GLM),4,Templates,GLM API for cheap generation,GLM Is Not Claude Code
+Mini Lesson 2: Cough Detective,Tracing spread of a cough,Not Started,High,AI Agent (GLM),4,Templates,,GLM Is Not Claude Code
+Mini Lesson 3: Flu Season,Seasonal immune system challenges,Not Started,High,AI Agent (GLM),4,Templates,,GLM Is Not Claude Code
+Mini Lessons 4-10,Additional immune system scenarios,Not Started,Medium,AI Agent (GLM),20,First 3 lessons,Batch generation,GLM Is Not Claude Code
+Develop NGSS alignment docs,Align all lessons to NGSS standards,Not Started,High,AI Agent (Grok),6,All lessons,Grok has recent NGSS data,Grok Keeps it Real
+Create student worksheets,Activity sheets for each lesson,Not Started,High,AI Agent,8,All lessons,Google Docs MCP,Getting to the Google
+Build Coloring Packs,Cartoonized immune cells coloring pages,Not Started,Medium,AI Agent (Bob Ross),4,,DALL-E for illustrations,Bob Ross Image 3D Makers
+Develop Quick Lab Activities,"Hands-on activities (sleep log sneeze sim)",Not Started,Medium,AI Agent,6,,,Codex or Gemini
+Create Reflection Journals,Student reflection templates,Not Started,High,AI Agent,2,Lessons complete,Google Docs templates,Getting to the Google
+Create Exit Tickets,Quick assessment prompts,Not Started,High,AI Agent,2,,Google Forms integration,Getting to the Google
+Build Google Forms quizzes,Concept check quizzes,Not Started,Medium,AI Agent,4,All lessons,,Getting to the Google
+Develop Articulate Rise course 1,Getting Started with ModelIt!,Not Started,High,Human + AI,8,,Requires Articulate Rise license,Human-led with AI assist
+Develop Articulate Rise course 2,NGSS Practices and Simulation,Not Started,Medium,Human + AI,8,Course 1,,Human-led with AI assist
+Create TPT bundles,4-6 lesson packs,Not Started,High,Automation,2,All individual lessons,Python bundling script,Codex or GitHub Copilot
+Set up TPT store,Create seller account and listings,Not Started,High,Human,4,Products ready,Requires human approval,Human-required
+Create Resource Library page,Website downloads section,Not Started,High,AI Agent (Website Launcher),3,Products ready,GitHub Pages,Website Launcher
